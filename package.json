@@ -1,0 +1,20 @@
+{
+  "name": "unittestingtoy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
